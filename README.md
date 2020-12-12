@@ -1,4 +1,7 @@
 # kosalnith.github.io
+![GitHub all releases](https://img.shields.io/github/downloads/kosalnith/kosalnith.github.io/total?logo=GitHub&style=flat-square)
+![Twitter Follow](https://img.shields.io/twitter/follow/kosalnith?color=%231DA1F2&logo=Twitter&style=flat-square)
+
 Personal web page (under construction)
 
 The content of this web page is tracked by Kosal’s old personal web page: https://sites.google.com/site/nithkosal/. This new web site was designed using templates and 
@@ -22,5 +25,3 @@ Version: 1.0.0
 
 Copyright: Nith Kosal 2018-2020. All rights reserved.
 
-![GitHub all releases](https://img.shields.io/github/downloads/kosalnith/kosalnith.github.io/total?logo=GitHub&style=flat-square)
-![Twitter Follow](https://img.shields.io/twitter/follow/kosalnith?color=%231DA1F2&logo=Twitter&style=flat-square)
