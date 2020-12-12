@@ -1,4 +1,9 @@
 # kosalnith.github.io
+![GitHub](https://img.shields.io/github/license/nithkosal/nithkosal.github.io?style=flat-square)
+![GitHub repo size](https://img.shields.io/github/repo-size/nithkosal/nithkosal.github.io?style=flat-square)
+![GitHub all releases](https://img.shields.io/github/downloads/kosalnith/kosalnith.github.io/total?logo=GitHub&style=flat-square)
+![Twitter Follow](https://img.shields.io/twitter/follow/kosalnith?color=%231DA1F2&logo=Twitter&style=flat-square)
+
 Personal web page (under construction)
 
 The content of this web page is tracked by Kosal’s old personal web page: https://sites.google.com/site/nithkosal/. This new web site was designed using templates and 
@@ -18,9 +23,7 @@ With this site you can find my work and my adventure, especially the useful and 
 - [Links](https://kosalnith.github.io/links.html), the important link sources in economics and econometrics that helpful for young economists and students.  
 
 
-Version: 1.0.0 
+Version: 1.0.4
 
 Copyright: Nith Kosal 2018-2020. All rights reserved.
 
-![GitHub all releases](https://img.shields.io/github/downloads/kosalnith/kosalnith.github.io/total?logo=GitHub&style=flat-square)
-![Twitter Follow](https://img.shields.io/twitter/follow/kosalnith?color=%231DA1F2&logo=Twitter&style=flat-square)
