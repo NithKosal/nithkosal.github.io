@@ -1,4 +1,5 @@
 # kosalnith.github.io
+![GitHub](https://img.shields.io/github/license/nithkosal/nithkosal.github.io?style=flat-square)
 ![GitHub all releases](https://img.shields.io/github/downloads/kosalnith/kosalnith.github.io/total?logo=GitHub&style=flat-square)
 ![Twitter Follow](https://img.shields.io/twitter/follow/kosalnith?color=%231DA1F2&logo=Twitter&style=flat-square)
 
