@@ -4797,16 +4797,10 @@ body, html {
 /*------------------------------------------------------------------------------------------------------------------------------------------------------*/
 
 
-.hero-image1 {
+.hero-image1{
   /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
-  background-image: url("https://nithkosal.github.io/static/img/personal/CoverImg.jpg");
-
-  /* Set a specific height */
-  height: 60%;
-
-  /* Position and center the image to scale nicely on all screens */
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative;
+    width: 93%;
+    margin-left: auto;
+    margin-right: auto;
+    image-resolution: snap;
 }
