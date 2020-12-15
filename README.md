@@ -23,7 +23,7 @@ With this site you can find my work and my adventure, especially the useful and 
 - [Links](https://kosalnith.github.io/links.html), the important link sources in economics and econometrics that helpful for young economists and students.  
 
 
-Version: 1.0.5
+Version: 1.0.6
 
 Copyright: Nith Kosal 2018-2020. All rights reserved.
 
